@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phainebei.andyylzhang.com/sitemap.xml
